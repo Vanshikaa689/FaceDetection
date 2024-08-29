@@ -36,12 +36,12 @@ Similar to overlayfilter.py, this script detects faces and applies a filter to t
 ## How to Run the Scripts
 - Ensure you have Python installed (preferably Python 3.7+).
 - Install OpenCV if not already installed:
- - pip install opencv-python
+  - pip install opencv-python
 - Download or clone the project folder.
-- Place the required images (e.g., apple.png) in the specified paths in the scripts or update the paths as needed.
+ - Place the required images (e.g., apple.png) in the specified paths in the scripts or update the paths as needed.
 - Run each script using Python:
- - python face_detection.py
- - Replace face_detection.py with the script name you wish to run.
+  - python DetectFace.py
+  - Replace DetectFace.py with the script name you wish to run.
 
 
 ## Notes
